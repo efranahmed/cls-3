@@ -1,0 +1,77 @@
+.display{
+
+	display:inline; 
+}
+
+.blue{
+
+	color:blue;  
+}
+
+.box{
+
+	width:100px;
+	height:100px;  
+}
+
+.box1{
+	background-color:  red;  
+}
+.box2{
+
+	background-color:green; 
+margin:100px 50px 30px 10px; 
+
+ }
+ .header{
+ 	min-height:10px;
+ 	background-color:blue;  
+ }
+.wrapper{
+	overflow:hidden; 
+
+}
+.blog{
+	float:left; 
+	width:40%;
+	min-height:150px; 
+    background-color:red; 
+
+}
+.contact{
+	float: right;
+	width: 60%;
+	min-height:150px;
+	background-color:black;   
+}
+
+
+
+.single{
+	float:left; 
+	width:33.3%;
+	min-height:150px;
+}
+.box3{
+	background-color:lime;
+
+}
+.box4{
+	background-color:pink;
+}
+.box5{
+	background-color:orange;
+}
+
+.fotter{
+	min-height:70px;
+ 	background-color:blue; 
+}
+
+.center{
+	text-align:center; 
+}
+
+.table{
+	border:1px solid black; 
+}
